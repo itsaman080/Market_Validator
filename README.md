@@ -32,6 +32,22 @@ An AI-powered Streamlit web app that helps startup founders and entrepreneurs va
 
 ---
 
+## 📸 Screenshots
+
+| Idea Input                      | Competitor Results                  | Market Report                     |
+| ------------------------------- | ----------------------------------- | --------------------------------- |
+| ![Input](Screenshots/test1-1.png) | ![Results](Screenshots/test1-2.png) | ![Report](Screenshots/test1-3.png) |
+
+> 
+---
+
+## 🎬 Video Demo
+
+Watch a quick demo of the AI Market Validator Tool in action:  
+[Demo Video](Screenshots/Demo.mp4)
+
+---
+
 ## 📦 Installation
 
 1. **Clone the repository**
@@ -72,22 +88,6 @@ streamlit run market_validator.py
 ```
 
 Then open your browser at: `http://localhost:8501`
-
----
-
-## 📸 Screenshots
-
-| Idea Input                      | Competitor Results                  | Market Report                     |
-| ------------------------------- | ----------------------------------- | --------------------------------- |
-| ![Input](Screenshots/test1-1.png) | ![Results](Screenshots/test1-2.png) | ![Report](Screenshots/test1-3.png) |
-
-> 
----
-
-## 🎬 Video Demo
-
-Watch a quick demo of the AI Market Validator Tool in action:  
-[Demo Video](Screenshots/Demo.mp4)
 
 ---
 
