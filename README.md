@@ -73,7 +73,7 @@ Then open your browser at: `http://localhost:8501`
 
 | Idea Input                      | Competitor Results                  | Market Report                     |
 | ------------------------------- | ----------------------------------- | --------------------------------- |
-| ![Input](screenshots/input.png) | ![Results](screenshots/results.png) | ![Report](screenshots/report.png) |
+| ![Input](Screenshots/test1-1.png) | ![Results](Screenshots/test1-2.png) | ![Report](Screenshots/test1-3.png) |
 
 > *(Replace with actual screenshots once available)*
 
