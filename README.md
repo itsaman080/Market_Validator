@@ -75,7 +75,13 @@ Then open your browser at: `http://localhost:8501`
 | ------------------------------- | ----------------------------------- | --------------------------------- |
 | ![Input](Screenshots/test1-1.png) | ![Results](Screenshots/test1-2.png) | ![Report](Screenshots/test1-3.png) |
 
-> *(Replace with actual screenshots once available)*
+> 
+---
+
+## 🎬 Video Demo
+
+Watch a quick demo of the AI Market Validator Tool in action:  
+[Demo Video](Screenshots/Demo.mp4)
 
 ---
 
