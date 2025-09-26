@@ -17,9 +17,9 @@ An AI-powered Streamlit web app that helps startup founders and entrepreneurs va
 
 ---
 
-> ⚠️ **Future Enhancements Coming Soon:**  
-> A separate document (`Future_Enhancements.md`) lists potential updates and improvements for the AI Market Validator Tool.  
-> I will be actively working on these updates soon to make the tool more robust, accurate, and user-friendly.
+### ⚠️ **Future Enhancements Coming Soon:**  
+- A separate document (`Future_Enhancements.md`) lists potential updates and improvements for the AI Market Validator Tool.  
+- I will be actively working on these updates soon to make the tool more robust, accurate, and user-friendly.
 
 ---
 
