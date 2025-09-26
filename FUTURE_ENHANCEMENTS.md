@@ -1,6 +1,18 @@
 # Future Enhancements – AI Market Validator Tool
 
+I will be working on these updates soon.
 This document outlines potential improvements to make the Market Validator more robust, accurate, and user-friendly.
+
+---
+---
+
+## Possible Improvements (Short List)
+- Integrate additional **real-time data sources** (LinkedIn, Crunchbase, Product Hunt).  
+- Improve **semantic similarity** using larger or domain-specific embedding models.  
+- Add **RAG (Retrieval-Augmented Generation)** to provide richer competitor context.  
+- Include **visualizations and interactive UI elements** for better insights.  
+- Allow **exporting market reports** in PDF or Excel formats.  
+- Enhance **LLM prompts** for structured market analysis and gap detection.
 
 ---
 
