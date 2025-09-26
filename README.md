@@ -93,11 +93,11 @@ Then open your browser at: `http://localhost:8501`
 
 ## 🧪 Example Use Case
 
-**Idea:** "Automated resume builder using AI and LinkedIn data"
+**Idea:** "AI Based Tutor"
 
 **Output:**
 
-* Shows similar businesses 
+* Shows similar businesses / Tools
 * Analyzes which ones are closest
 * Highlights gaps (e.g., lack of live-tracking in some markets)
 * Gives verdict on idea uniqueness
