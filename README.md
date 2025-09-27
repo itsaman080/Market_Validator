@@ -115,7 +115,7 @@ Then open your browser at: `http://localhost:8501`
 
 ## 📄 License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
