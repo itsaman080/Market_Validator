@@ -117,6 +117,10 @@ Then open your browser at: `http://localhost:8501`
 
 This project is licensed under the [MIT License](LICENSE).
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
 ---
 
 ## 🙌 Acknowledgments
