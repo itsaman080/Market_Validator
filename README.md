@@ -1,6 +1,10 @@
 # 💡 AI Market Validator Tool
 
-An AI-powered Streamlit web app that helps startup founders and entrepreneurs validate their business ideas by:
+The AI Market Validator Tool is a Streamlit-based web app that helps startup founders and entrepreneurs validate their business ideas by analyzing competitors, identifying market gaps, and generating concise AI-driven reports.
+
+Instead of spending days manually searching for competitors and analyzing reports, this tool automates the process using AI + web search + embeddings.
+
+This app helps startup founders and entrepreneurs validate their business ideas by:
 
 - Searching for existing competitors using **Google Custom Search**
 - Measuring **semantic similarity** using **Sentence Transformers**
@@ -101,6 +105,14 @@ Then open your browser at: `http://localhost:8501`
 * Analyzes which ones are closest
 * Highlights gaps (e.g., lack of live-tracking in some markets)
 * Gives verdict on idea uniqueness
+
+---
+
+## 📊 Impact & Value
+
+* For entrepreneurs: Saves hours of manual research by automating competitor analysis
+* For investors/mentors: Provides a quick way to check if an idea is saturated or unique
+* For students/researchers: Demonstrates practical integration of AI + NLP + LLMs + real-time search APIs
 
 ---
 
